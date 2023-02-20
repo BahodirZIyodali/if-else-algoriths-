@@ -68,7 +68,6 @@
 //     console.log('Manfiy son bo`lishi mumkin');
 // }
 
-
 // Misol - 9
 // let a =+prompt('a son =');
 // let b =+prompt('b son =');
