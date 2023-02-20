@@ -8,7 +8,6 @@
 //     console.log('negative');
 // } 
 
-
 // Misol - 3
 // let a=+prompt('a number =');
 // if(a%2==0){
