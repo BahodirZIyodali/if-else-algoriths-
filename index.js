@@ -74,6 +74,7 @@
 // let b =+prompt('b son =');
 // let c =+prompt('c son =');
 
+
 // if(a>0 && b>0 && c>0){
 //     console.log("Hammasi musbat");
 // }else if(a>0 && b>0 && c<0){
