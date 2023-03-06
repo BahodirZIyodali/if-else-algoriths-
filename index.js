@@ -19,7 +19,6 @@
 // Misol - 4
  
 
-
 //Misol - 5
 // let a =+prompt('a son =');
 // let b =+prompt('b son =');
