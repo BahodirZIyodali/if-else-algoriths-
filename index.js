@@ -38,7 +38,7 @@
 // if(a>b && b<c){
 //     console.log(
 //        b + ' son a va c sonlar orasida haqiqatan ham yotadi!'
-//     )
+//     ) 
 // }else{
 //     console.log('Rostlik bajarilmadi!');
 // }
