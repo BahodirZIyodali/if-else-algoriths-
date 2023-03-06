@@ -16,7 +16,6 @@
 // }else{
 //     console.log('odd number');
 // }
-
 // Misol - 4
  
 
