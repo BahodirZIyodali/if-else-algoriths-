@@ -16,8 +16,7 @@
 // }else{
 //     console.log('odd number');
 // }
-// Misol - 4
- 
+// Misol - 
 
 //Misol - 5
 // let a =+prompt('a son =');
