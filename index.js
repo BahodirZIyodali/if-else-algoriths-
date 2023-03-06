@@ -43,7 +43,6 @@
 //     console.log('Rostlik bajarilmadi!');
 // }
 
-
 // Misol - 7
 // let a =+prompt('a son =');
 // let b =+prompt('b son =');
