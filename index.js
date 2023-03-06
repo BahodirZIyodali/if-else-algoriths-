@@ -30,6 +30,7 @@
 //     console.log('False');
 // }
 
+
 //  Misol - 6
 // let a =+prompt('a son =');
 // let b =+prompt('b son =');
