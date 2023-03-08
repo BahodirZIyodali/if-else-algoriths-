@@ -1,4 +1,3 @@
-
 // Misol - 1. 2
 // let a=+prompt('a son = ');
 // if(a>0){
