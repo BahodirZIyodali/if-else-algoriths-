@@ -1,4 +1,27 @@
-// Misol - 1. 2 
+
+function unique(arr) {
+  const seen = new Set();
+  const result = [];
+  for (let i = 0; i < arr.length; i++) {
+    const item = arr[i];
+    if (!seen.has(item)) {
+      seen.add(item);
+      result.push(item);
+    }
+  }
+  return result;
+}
+
+const values = ['Hera', 'Krishna', 'Hera', 'Krishna', 'Hera', 'Krishna', 'Hera', ':0'];
+console.log(unique(values)); // ['Hera', 'Krishna', ':0']
+
+
+
+
+
+
+
+/ Misol - 1. 2 
 // let a=+prompt('a son = ');
 // if(a>0){
 //     console.log('positive')
