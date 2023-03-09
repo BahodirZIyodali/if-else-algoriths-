@@ -16,7 +16,6 @@ const values = ['Hera', 'Krishna', 'Hera', 'Krishna', 'Hera', 'Krishna', 'Hera',
 console.log(unique(values)); // ['Hera', 'Krishna', ':0']
 
 
-
 / Misol - 1. 2 
 // let a=+prompt('a son = ');
 // if(a>0){
