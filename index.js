@@ -11,7 +11,6 @@ function unique(arr) {
   }
   return result;
 }
-
 const values = ['Hera', 'Krishna', 'Hera', 'Krishna', 'Hera', 'Krishna', 'Hera', ':0'];
 console.log(unique(values)); // ['Hera', 'Krishna', ':0']
 
