@@ -13,6 +13,7 @@ function unique(arr) {
 }
 const values = ['Hera', 'Krishna', 'Hera', 'Krishna', 'Hera', 'Krishna', 'Hera', ':0'];
 console.log(unique(values)); // ['Hera', 'Krishna', ':0']
+
 / Misol - 1. 2 
 // let a=+prompt('a son = ');
 // if(a>0){
