@@ -6,7 +6,7 @@ function unique(arr) {
     const item = arr[i];
     if (!seen.has(item)) {
       seen.add(item);
-      result.push(item);
+      result.push(item); 
     }
   }
   return result; 
